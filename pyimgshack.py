@@ -6,6 +6,7 @@
 
 # REQUIRED
 # pyinotify
+# curl
 # zenity (linux package)
 
 import sys, os, pyinotify, re
